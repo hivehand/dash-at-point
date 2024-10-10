@@ -44,7 +44,7 @@ Dash 1.9.3 introduces a new way to call Dash with keywords (`dash-plugin://`), b
 (custom-set-variables '(dash-at-point-legacy-mode t))
 ```
 
-[melpa]: http://melpa.milkbox.net
+[melpa]: https://melpa.org
 
 # Copyright
 
